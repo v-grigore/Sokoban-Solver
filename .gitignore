@@ -1,5 +1,5 @@
 # Image files
-images/*
+*.png
 
 # Archive files
 *.zip

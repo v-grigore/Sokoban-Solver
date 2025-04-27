@@ -1,5 +1,6 @@
 # Image files
 *.png
+!images/graphs/*
 
 # Archive files
 *.zip

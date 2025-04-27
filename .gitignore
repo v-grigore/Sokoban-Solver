@@ -1,3 +1,19 @@
+# Image files
+images/*
+
+# Archive files
+*.zip
+
+# HTML files
+*.html
+
+# PDF files
+*.pdf
+
+# logs
+*.log
+log.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
